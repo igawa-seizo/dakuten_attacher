@@ -14,7 +14,9 @@ app.findChangeGrepOptions.widthSensitive = true;//全角半角を区別するか
 //ドキュメントに対してルビ組版を実行する
 var Attachmenter= (function () {
      var targetKana = "あいうえおなにぬねのまみむめもやゆよらりるれろわゐゑをんアイエオナニヌネノマミムメモヤユヨラリルレロワヰヱヲン";
-     var specialKana = "にやアヤマワヰヱヲン";
+     var specialKana = "おにぬねのやゆイエオナニヌネノメモヤヨマラリロワヰヱヲン";
+     var specialKana2 = "ア";
+     var s = calcUnitScale();
      var dakuten = "゛";
      
      // コンストラクタ   
@@ -47,10 +49,10 @@ var Attachmenter= (function () {
     // 仮名＋濁点の箇所を検索
     Attachmenter.prototype.find_ = function()  {
         app.findGrepPreferences.findWhat = dakuten + "[" + targetKana + "]";
-        var tateFound = this.document.findGrep();
+        var tateFound = this.document.selection[0].parentStory.findGrep();
         
         app.findGrepPreferences.findWhat = "[" + targetKana + "]" + dakuten;
-        var yokoFound = this.document.findGrep();
+        var yokoFound = this.document.selection[0].parentStory.findGrep();
         
         app.findGrepPreferences.findWhat = NothingEnum.nothing;
         
@@ -73,7 +75,6 @@ var Attachmenter= (function () {
         textObj.rubyType = RubyTypes.perCharacterRuby;
         textObj.rubyAlignment = RubyAlignments.RUBY_CENTER;
         
-        var s = calcUnitScale();
         var fontSize = textObj.pointSize;
         
         //以下の単位はポイント
@@ -83,6 +84,9 @@ var Attachmenter= (function () {
         if (specialKana.indexOf(textObj.contents ) >= 0)  {
             textObj.rubyXOffset = -1 * s * (fontSize / 2);
             textObj.rubyYOffset = -1 * s * (fontSize - 1);
+        } else if (specialKana2.indexOf(textObj.contents ) >= 0)  {
+            textObj.rubyXOffset = -1 * s * (fontSize / 2);
+            textObj.rubyYOffset = -1 * s * (fontSize - 2);
         } else {
             textObj.rubyXOffset = -1 * s * ( (fontSize - 1) / 2);
             textObj.rubyYOffset = -1 * s * fontSize;

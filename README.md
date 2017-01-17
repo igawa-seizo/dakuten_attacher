@@ -3,29 +3,39 @@
 u‚ Jv‚Ì—l‚È‘÷‰¹‚ª‘¶İ‚µ‚È‚¢‰¼–¼‚ÉA‘÷“_‚ğãY—í‚É‘g‚ŞInDesign—pƒXƒNƒŠƒvƒg‚Å‚·B
 ‘÷“_‚ğƒ‹ƒr‚Æ‚µ‚Ä‘g‚İƒIƒtƒZƒbƒg’l‚Ì©“®’²®‚É‚æ‚è‘÷‰¹‰¼–¼‚ğì‚è‚Ü‚·B
 
-![‘÷“_‰¼–¼](https://raw.githubusercontent.com/igawa-seizo/dakuten_attacher/master/img/before_run.PNG "Às‘O")
-![‘÷“_‰¼–¼](https://raw.githubusercontent.com/igawa-seizo/dakuten_attacher/master/img/after_run.PNG "ÀsŒã")
+![‘÷“_‰¼–¼](https://raw.githubusercontent.com/igawa-seizo/dakuten_attacher/master/static/before_after.PNG "Às‘O‚ÆÀsŒã")
 
-yÀs‘Oi¶j‚ÆÀsŒãi‰Ejz
+yƒXƒNƒŠƒvƒg‚ÌÀs‘O‚ÆÀsŒãz
+
+[ƒXƒNƒŠƒvƒg‚ÌÀsŒ©–{](https://raw.githubusercontent.com/igawa-seizo/dakuten_attacher/master/static/mihon.pdf)
 
 ## “®ìŠÂ‹«
 - InDesign CS6ˆÈã
 
 ¦ì¬Ò‚ÍMac OS X‚ğŠ—L‚µ‚Ä‚¢‚È‚¢‚½‚ßAMac OS X”ÅInDesign‚Å‚Ì“®ìŠm”F‚Í‚µ‚Ä‚¢‚Ü‚¹‚ñ
 
+## ƒ_ƒEƒ“ƒ[ƒhƒy[ƒW
+https://github.com/igawa-seizo/dakuten_attacher/releases
+
 ## ƒCƒ“ƒXƒg[ƒ‹•û–@
 ‰º‹L‚Ìƒtƒ@ƒCƒ‹‚ğInDesign‚ÌƒXƒNƒŠƒvƒgƒfƒBƒŒƒNƒgƒŠ‚É”z’u‚µ‚Ä‚­‚¾‚³‚¢B
 
 - DakutenAttacher.jsx
 
+InDesign‚ÌƒXƒNƒŠƒvƒgƒfƒBƒŒƒNƒgƒŠ‚ÍWindows”Å‚Å‚·‚Æ‰º‹L‚ÌˆÊ’u‚É‚ ‚è‚Ü‚·B
+
+- C:\Users\mƒ†[ƒU–¼n\AppData\Roaming\Adobe\InDesign\Versionmƒo[ƒWƒ‡ƒ“n\ja_JP\Scripts\Scripts Panel
+
+Œ©‚Â‚©‚ç‚È‚¢ê‡‚ÍƒXƒNƒŠƒvƒgƒpƒlƒ‹‚Ìƒƒjƒ…[‚©‚çuƒGƒNƒXƒvƒ[ƒ‰[‚Å•\¦v‚Å’¼ÚŒ©‚Â‚¯‚é‚Ì‚ªŠmÀ‚Å‚·B
+
 ## ƒAƒ“ƒCƒ“ƒXƒg[ƒ‹•û–@
 ã‹L‚Ìƒtƒ@ƒCƒ‹‚ğíœ‚·‚é‚¾‚¯‚ÅŠ®—¹‚Å‚·B
 
 ## g—p•û–@
-Adobe InDesignã‚ÌƒXƒNƒŠƒvƒgƒpƒlƒ‹‚©‚çuDakutenAttacher.jsxv‚ğƒ_ƒuƒ‹ƒNƒŠƒbƒN‚µ‚Ä‚¾‚­‚³‚¢BˆÈ‰º‚Ìˆ—‚ªÀs‚³‚ê‚Ü‚·B•ÏŠ·’†‚ÍInDesign‚Ì‘€ì‚ÍˆêØ‚Å‚«‚Ü‚¹‚ñ‚Ì‚Å’ˆÓ‚µ‚Ä‚­‚¾‚³‚¢B
+Adobe InDesignã‚ÌƒXƒNƒŠƒvƒgƒpƒlƒ‹‚©‚çuDakutenAttacher.jsxv‚ğƒ_ƒuƒ‹ƒNƒŠƒbƒN‚µ‚Ä‚¾‚­‚³‚¢BˆÈ‰º‚Ìˆ—‚ª“¯‚ÉÀs‚³‚ê‚Ü‚·B•ÏŠ·’†‚ÍInDesign‚Ì‘€ì‚ÍˆêØ‚Å‚«‚Ü‚¹‚ñ‚Ì‚Å’ˆÓ‚µ‚Ä‚­‚¾‚³‚¢B
 
 - ƒXƒg[ƒŠ[ã‚É‚ ‚éu‚ Jv‚Ì—l‚Èu“Á’è‚Ì‰¼–¼{‘÷“_v‚Ì•\‹L‚ğŒŸõ‚µ‚Ä‘÷‰¹‰¼–¼‚Æ‚µ‚Ä‘g‚Ş
-- ‘I‘ğ”ÍˆÍ“à‚Ì“Á’è‚Ì‰¼–¼‚ğ‘÷‰¹‰¼–¼‚É•ÏŠ·‚·‚é
+- ‘I‘ğ‚³‚ê‚½ƒeƒLƒXƒg”ÍˆÍ‚É‚ ‚é“Á’è‚Ì‰¼–¼‚ğ‘÷‰¹‰¼–¼‚É**‹­§•ÏŠ·**‚·‚é
 
 ˆ—‘ÎÛ‚Æ‚È‚é**“Á’è‚Ì‰¼–¼**‚ÍŸ‚Ì‚Æ‚¨‚è‚Å‚·B‘÷‰¹‚ª‘¶İ‚µ‚È‚¢‰¼–¼‚ğ‘ÎÛ‚Æ‚µ‚Ü‚·B
 
@@ -56,7 +66,7 @@ Adobe InDesignã‚ÌƒXƒNƒŠƒvƒgƒpƒlƒ‹‚©‚çuDakutenAttacher.jsxv‚ğƒ_ƒuƒ‹ƒNƒŠƒbƒN‚µ‚
   - G‰p–¾’©‘ÌL
   - ‚è‚å‚¤ƒeƒLƒXƒg
   
-ƒtƒHƒ“ƒg‚É‚æ‚Á‚Ä‚Í‘÷“_‚Æ‰¼–¼‚ª‚­‚Á‚Â‚­‚©‚à‚µ‚ê‚Ü‚¹‚ñ‚ªA‚±‚ÌƒXƒNƒŠƒvƒg‚ÍƒtƒHƒ“ƒg‚²‚Æ‚ÌŒ©‰h‚¦‚Ì’²®‚ÍŒ»ƒo[ƒWƒ‡ƒ“‚Å‚ÍˆêØs‚Á‚Ä‚¢‚Ü‚¹‚ñB
+‰¼–¼‚ª‘å‚Ô‚è‚ÌƒtƒHƒ“ƒg‚Å‚Í‘÷“_‚Æ‰¼–¼‚ª‚­‚Á‚Â‚­‚±‚Æ‚ª‚ ‚è‚Ü‚·B‚½‚¾A‚±‚ÌƒXƒNƒŠƒvƒg‚ÍƒtƒHƒ“ƒg‚²‚Æ‚Ì’²®‚ÍŒ»ƒo[ƒWƒ‡ƒ“‚Å‚ÍˆêØs‚Á‚Ä‚¢‚Ü‚¹‚ñB
 
 ## –ÆÓ–€
 –{ƒvƒƒOƒ‰ƒ€‚ğg—p‚µ‚½‚±‚Æ‚É‚æ‚Á‚Ä¶‚¶‚½”@‰½‚È‚éŒ‹‰Ê‚É‚Â‚¢‚ÄA»ìÒ‚ÍˆêØ‚ÌÓ”C‚ğ•‰‚¢‚©‚Ë‚Ü‚·B
