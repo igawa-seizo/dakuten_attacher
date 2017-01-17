@@ -5,10 +5,13 @@
 
 ![濁点仮名](https://raw.githubusercontent.com/igawa-seizo/dakuten_attacher/master/img/before_run.PNG "実行前")
 ![濁点仮名](https://raw.githubusercontent.com/igawa-seizo/dakuten_attacher/master/img/after_run.PNG "実行後")
+
 【実行前（左）と実行後（右）】
 
 ## 動作環境
 - InDesign CS6以上
+
+※作成者はMac OS Xを所有していないため、Mac OS X版InDesignでの動作確認はしていません
 
 ## インストール方法
 下記のファイルをInDesignのスクリプトディレクトリに配置してください。
@@ -21,10 +24,10 @@
 ## 使用方法
 Adobe InDesign上のスクリプトパネルから「DakutenAttacher.jsx」をダブルクリックしてだくさい。以下の処理が実行されます。変換中はInDesignの操作は一切できませんので注意してください。
 
-- ストーリー上にある「あ゛」の様な「仮名＋濁点」の表記を検索して濁音仮名として組む
-- 選択範囲内の仮名を濁音仮名として組む
+- ストーリー上にある「あ゛」の様な「特定の仮名＋濁点」の表記を検索して濁音仮名として組む
+- 選択範囲内の特定の仮名を濁音仮名に変換する
 
-- 上記の処理で対象とされる仮名は次のとおりです。
+処理対象となる**特定の仮名**は次のとおりです。濁音が存在しない仮名を対象とします。
 
 <pre>
     あいうえお
