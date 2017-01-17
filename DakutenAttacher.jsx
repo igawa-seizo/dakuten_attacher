@@ -102,7 +102,11 @@ function calcUnitScale() {
     else return 1;
 }
 
-var attacher = new Attachmenter();
-attacher.attach();
-attacher.convert();
-alert ("処理が完了しました");
+if (this.document.selection.length !== 0) {
+    var attacher = new Attachmenter();
+    attacher.attach();
+    attacher.convert();
+    alert ("処理が完了しました");
+} else {
+    alert ("対象のテキストフレームを選択してください！");
+}
