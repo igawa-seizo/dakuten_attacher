@@ -1,10 +1,11 @@
 # DakutenAttacher
 ## 概要
 「あ゛」の様な濁音が存在しない仮名に、濁点を綺麗に組むInDesign用スクリプトです。
-濁点をルビとして組みオフセット値の調整を自動化することで、濁音仮名を作ります。
+濁点をルビとして組みオフセット値の自動調整により濁音仮名を作ります。
 
-![濁点仮名](https://raw.githubusercontent.com/igawa-seizo/dakuten_attacher/master/img/after_run.PNG "実行前")
-![濁点仮名](https://raw.githubusercontent.com/igawa-seizo/dakuten_attacher/master/img/before_run.PNG "実行後")
+![濁点仮名](https://raw.githubusercontent.com/igawa-seizo/dakuten_attacher/master/img/before_run.PNG "実行前")
+![濁点仮名](https://raw.githubusercontent.com/igawa-seizo/dakuten_attacher/master/img/after_run.PNG "実行後")
+【実行前（左）と実行後（右）】
 
 ## 動作環境
 - InDesign CS6以上
