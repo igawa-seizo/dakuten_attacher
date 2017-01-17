@@ -3,8 +3,8 @@
 u‚ Jv‚Ì—l‚È‘÷‰¹‚ª‘¶İ‚µ‚È‚¢‰¼–¼‚ÉA‘÷“_‚ğãY—í‚É‘g‚ŞInDesign—pƒXƒNƒŠƒvƒg‚Å‚·B
 ‘÷“_‚ğƒ‹ƒr‚Æ‚µ‚Ä‘g‚İƒIƒtƒZƒbƒg’l‚Ì’²®‚ğ©“®‰»‚·‚é‚±‚Æ‚ÅA‘÷‰¹‰¼–¼‚ğì‚è‚Ü‚·B
 
-![‘÷“_‰¼–¼](img/before_run.png "Às‘O")
-![‘÷“_‰¼–¼](img/after_run.png "ÀsŒã")
+![‘÷“_‰¼–¼](https://raw.githubusercontent.com/igawa-seizo/dakuten_attacher/master/img/after_run.PNG "Às‘O")
+![‘÷“_‰¼–¼](https://raw.githubusercontent.com/igawa-seizo/dakuten_attacher/master/img/before_run.PNG "ÀsŒã")
 
 ## “®ìŠÂ‹«
 - InDesign CS6ˆÈã
@@ -25,21 +25,23 @@ Adobe InDesignã‚ÌƒXƒNƒŠƒvƒgƒpƒlƒ‹‚©‚çuDakutenAttacher.jsxv‚ğƒ_ƒuƒ‹ƒNƒŠƒbƒN‚µ‚
 
 - ã‹L‚Ìˆ—‚Å‘ÎÛ‚Æ‚³‚ê‚é‰¼–¼‚ÍŸ‚Ì‚Æ‚¨‚è‚Å‚·B
 
-	‚ ‚¢‚¤‚¦‚¨
-	‚È‚É‚Ê‚Ë‚Ì
-	‚Ü‚İ‚Ş‚ß‚à
-	‚â@‚ä@‚æ
-	‚ç‚è‚é‚ê‚ë
-	‚í‚î@‚ï‚ğ
-	‚ñ
-	
-	ƒAƒC@ƒGƒI
-	ƒiƒjƒkƒlƒm
-	ƒ}ƒ~ƒ€ƒƒ‚
-	ƒ„@ƒ†@ƒˆ
-	ƒ‰ƒŠƒ‹ƒŒƒ
-	ƒƒ@ƒ‘ƒ’
-	ƒ“
+<pre>
+    ‚ ‚¢‚¤‚¦‚¨
+    ‚È‚É‚Ê‚Ë‚Ì
+    ‚Ü‚İ‚Ş‚ß‚à
+    ‚â@‚ä@‚æ
+    ‚ç‚è‚é‚ê‚ë
+    ‚í‚î@‚ï‚ğ
+    ‚ñ
+    
+    ƒAƒC@ƒGƒI
+    ƒiƒjƒkƒlƒm
+    ƒ}ƒ~ƒ€ƒƒ‚
+    ƒ„@ƒ†@ƒˆ
+    ƒ‰ƒŠƒ‹ƒŒƒ
+    ƒƒ@ƒ‘ƒ’
+    ƒ“
+</pre>
 
 ### ’ˆÓ“_
 –{•¶•¶šƒTƒCƒY10Q`16Qi7ƒ|ƒCƒ“ƒg`11ƒ|ƒCƒ“ƒgj‚ğ‘z’è‚µ‚Ä‚¢‚Ü‚·
